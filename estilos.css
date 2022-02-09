@@ -1,0 +1,20 @@
+div.columna-1,
+div.columna-2,
+div.columna-3{
+    float: left;
+    width: 33%;
+
+}
+
+div.columna-2{
+    background-color: aquamarine;
+}
+
+div.testimonio{
+    padding: 30px;
+    text-align: center;
+}
+
+div.clearfix´{
+    clear: both;
+}
